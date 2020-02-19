@@ -54,7 +54,7 @@ class TinderBot():
                 rand = random()
                 if rand <  .69:
                     self.like()
-                else
+                else:
                     self.dislike()
             except Exception:
                 try:
